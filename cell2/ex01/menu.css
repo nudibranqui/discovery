@@ -1,0 +1,58 @@
+
+
+
+div.header{
+    padding-top:5px;
+    text-align: center;
+    background-color: black;
+    background-size: cover;
+    height: 200px;
+    width: 100%;
+    left: 0;
+    top: 0%;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    font-size: 50px;
+    text-decoration-color: whitesmoke;
+    color: white;
+    text-decoration: silver;
+}
+
+ul{
+width: 200px;
+
+
+}
+.menu{
+    float:left;
+    width: 200px;
+    height: 100%;
+    background-color: black;
+
+
+}
+
+li{
+background-color: white;
+padding-top: 5px;
+padding-bottom: 5px;
+margin-top: 15px;
+margin-bottom: 15px;
+text-align: center;
+border-color: black;
+
+}
+body{
+    
+    width: 100vw; 
+    height: 100vh;
+    background-image:url ("cell2/ex01/burger_ body.png");
+}
+
+.content{
+    margin-top: 3px;
+    margin-left: 3px;
+    text-align: center;
+
+
+}

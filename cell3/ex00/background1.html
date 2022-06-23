@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>background</title>
+    <meta charset="UTF-8">
+    <meta name="title" content="Título de la WEB">
+    <meta name="description" content="Descripción de la WEB">  
+    <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0">  
+    <link href="background.css" rel="stylesheet" type="text/css"/>  
+
+
+  </head>
+  <body id="pral">
+    
+         
+    <script> 
+      var i = 0; 
+
+      function canvicolor(){
+        if ( i === 0 )
+        {
+          document.getElementById("pral").style.backgroundColor= "white";
+          i++;
+          
+        }
+        else if ( i === 1 )
+        {
+          document.getElementById("pral").style.backgroundColor= "red";
+          i++;
+          
+        }
+        else if ( i === 2 )
+        {
+          document.getElementById("pral").style.backgroundColor= "blue";
+          i = 0;
+          
+        }
+      }
+ 
+    </script>
+    <button type="boton" onclick="canvicolor()">Click here</button>
+    
+     
+  </body>
+
+  

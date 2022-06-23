@@ -1,0 +1,18 @@
+
+        hr{width: 100vw; height: 100vh;}
+        table{width: 100vw; height: 100vh; border: 2px black; border-collapse: collapse;/*overflow: auto;*/}
+        /*tr{width: 100%; height:100%;}*/
+        /*td{width:50%; height:100%; border:2px solid black; margin:0; border-collapse: collapse; padding-bottom: 100%;}*/
+
+body {
+    margin: 0%;
+    
+
+}
+td.primera {
+    background: rgb(0, 102, 128);  
+    bcolor:blue;
+}
+td.segunda {
+    background: rgb(216, 215, 228); 
+}

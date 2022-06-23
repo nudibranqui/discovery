@@ -1,0 +1,34 @@
+
+body{
+    width: 100vw;
+    height: 100vh;
+    background-color:white;
+    margin: 0%;
+   
+}
+
+#pral{
+    margin:0%;
+    width: 100%;
+    height: 100%;
+    
+    
+}
+
+#pral2{
+    margin:0%;
+    width: 100%;
+    height: 100%;
+    background-color: #682525;
+
+
+}
+
+button{
+    margin-top: 50px;
+    margin-left: 50px;
+
+
+}
+
+
